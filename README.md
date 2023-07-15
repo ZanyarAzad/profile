@@ -34,17 +34,7 @@ I'm a Front-end Developer specializing in Vue.js and Vuetify, with experience in
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg">
 </div>
 
 <br/>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyarAzad.ZanyarAzad)
-
-[![Zanyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanyarAzad&theme=vue&show_icons=true)](https://github.com/ZanyarAzad/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanyarAzad&layout=compact&theme=vue)](https://github.com/ZanyarAzad/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZanyarAzad&theme=vue)](https://git.io/streak-stats)
-
 </div>

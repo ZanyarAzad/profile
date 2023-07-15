@@ -23,12 +23,19 @@ I'm a Front-end Developer specializing in Vue.js and Vuetify, with experience in
 
 ## 👨‍💻 Skills
 
-- **Frontend**: HTML, CSS, Bootstrap, Vuetify, Vue.js
-- **Mobile Application**: Flutter
-- **Programming Languages**: C#, Java, PHP, Dart
-- **Databases**: MySQL
-- **Backend as a Service (BaaS)**: Firebase
-- **Software**: Adobe (Ai, Ps, Xd)
+<div align="left">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg">
+</div>
 
 <br/>
 

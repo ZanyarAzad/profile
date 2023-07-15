@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://i.imgur.com/0DljfVP.png)
+
 
 # Hello, I'm Zanyar Azad 👋
 Front-end Developer | Mobile App Developer

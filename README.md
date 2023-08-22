@@ -17,7 +17,7 @@ Front-end Developer | Mobile App Developer
 
 <br/>
 
-I'm a Front-end Developer specializing in Vue.js and Vuetify, with experience in Mobile Application Development using Flutter. I also have backend experience with Laravel, Firebase and MySQL.
+I'm a Front-end Developer specializing in Vue.js and Vuetify, with experience in Mobile Application Development using Flutter. I also have backend experience with Laravel, Firebase, and MySQL.
 
 <br/>
 
@@ -34,6 +34,8 @@ I'm a Front-end Developer specializing in Vue.js and Vuetify, with experience in
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 <br/>
